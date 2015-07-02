@@ -1,8 +1,9 @@
 /* 
  * File:   main.cpp
- * Author: Dr. Mark E. Lehr
- * Created on July 1, 2015, 10:20 PM
- * Purpose:  Monthly Payments
+ * Author: Jose Aguirre
+ * Created on July 1, 2015, 8:55 PM
+ * Purpose: Pi
+ * Savitch 9th edition chapter 3
  */
 
 //System Libraries
